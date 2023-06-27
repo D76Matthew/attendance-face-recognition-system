@@ -1,5 +1,5 @@
 import cv2
-import numpy as nppip
+import numpy as np
 import face_recognition
 
 imgelon_bgr = face_recognition.load_image_file('Images/elon.jpg')
